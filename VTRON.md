@@ -74,11 +74,3 @@ Write to file `VTRON.OUT`:
 2
 ```
 
----
-
-## Suggested Approach
-
-1. Check all pairs of circles to determine whether they intersect
-2. Build the graph accordingly
-3. Run **BFS** starting from vertex `1`
-4. The distance to vertex `N` is the answer; if unreachable, output `-1`
