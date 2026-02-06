@@ -70,9 +70,3 @@ Write to file `BTHUYEN.OUT`:
 ```
 
 ---
-
-## Notes
-
-- The problem is equivalent to finding all vertices **not reachable**
-  from vertex `1` in an undirected graph
-- **DFS or BFS** can be used to solve this problem efficiently
