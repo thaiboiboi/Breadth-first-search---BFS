@@ -1,4 +1,4 @@
-Exercise 1: CASTLE (File name: Castle.*)
+# Exercise 1: CASTLE (File name: Castle.*)
 
 A castle is represented as a rectangular grid with N rows and M columns.
 Each cell is considered a room.
@@ -18,7 +18,7 @@ b3 = 0 ⇔ there is a door on the bottom side
 
 If a bit equals 1, that side is a wall and cannot be passed through.
 
-Examples
+# Examples
 
 Binary 1010 → doors on the left and right, walls on top and bottom
 
