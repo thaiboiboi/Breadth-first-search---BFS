@@ -35,14 +35,14 @@ The number of room groups in the entire castle
 
 The size of the largest room group (number of rooms)
 
-Input (Castle.INP)
+# Input (Castle.INP)
 
 First line: two positive integers N, M (1 ≤ N, M ≤ 100)
 
 Next N lines: each line contains M integers
 Each integer is the decimal representation of a 4-bit binary number describing a room
 
-Output (Castle.OUT)
+# Output (Castle.OUT)
 
 Line 1: number of room groups
 
